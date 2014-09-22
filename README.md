@@ -1,4 +1,4 @@
 ruby-samples
 ============
 
-Ruby programming language samples
+Samples to try out the Ruby programming language.
